@@ -84,7 +84,7 @@ DATABASES = {
         'NAME': 'opendevops',
         'USER':'zhou',
         'PASSWORD':'123',
-        'HOST':'10.110.152.159',
+        'HOST':'10.110.152.*',
         'PORT':3306,
     }
 }
